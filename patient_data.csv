@@ -1,0 +1,16 @@
+Patient ID,Patient Name,Date of Birth,Age,Gender,Medical History,Allergies,Visit Date,Complaint,Physical Examination,Systolic BP,Diastolic BP,Temperature,Glucose,Cholesterol,Hemoglobin,Other Notes
+P001,John Doe,1980-05-15,43,Male,Hypertension,Penicillin,2024-01-10,Headache,Normal,130,85,98.6,90,180,14.0,No significant issues
+P001,John Doe,1980-05-15,43,Male,Hypertension,Penicillin,2023-10-05,Chest Pain,High BP,150,95,98.7,85,185,13.8,Advised medication
+P001,John Doe,1980-05-15,43,Male,Hypertension,Penicillin,2023-07-20,Fatigue,Fatigue,140,90,98.5,88,190,14.1,Follow-up required
+P002,Jane Smith,1975-08-22,48,Female,Diabetes,None,2024-02-14,Increased Thirst,High Glucose,120,80,99.1,200,160,12.0,Monitor diet
+P002,Jane Smith,1975-08-22,48,Female,Diabetes,None,2023-11-22,Blurred Vision,Normal,130,85,98.9,210,165,12.5,Regular check-ups
+P002,Jane Smith,1975-08-22,48,Female,Diabetes,None,2023-08-15,Foot Pain,Swollen Feet,125,82,99.2,195,155,11.8,Consult specialist
+P003,Alice Johnson,1990-11-30,33,Female,Asthma,Peanuts,2024-03-18,Shortness of Breath,Wheezing,110,70,97.8,100,170,13.0,Inhaler prescribed
+P003,Alice Johnson,1990-11-30,33,Female,Asthma,Peanuts,2023-12-12,Cough,Coughing,115,75,98.0,95,175,13.5,Avoid allergens
+P003,Alice Johnson,1990-11-30,33,Female,Asthma,Peanuts,2023-09-10,Wheezing,Wheezing,112,72,98.2,97,172,13.2,Routine follow-up
+P004,Bob Brown,1985-03-05,39,Male,Heart Disease,None,2024-04-05,Chest Pain,Irregular Heartbeat,140,90,99.0,110,200,15.0,Medication adjusted
+P004,Bob Brown,1985-03-05,39,Male,Heart Disease,None,2023-12-30,Shortness of Breath,Swelling,135,88,99.3,105,195,14.8,Cardiology referral
+P004,Bob Brown,1985-03-05,39,Male,Heart Disease,None,2023-09-20,Palpitations,Normal,138,89,98.8,108,198,14.9,Stable condition
+P005,Charlie Green,1995-07-12,28,Male,Chronic Migraine,Sulfa Drugs,2024-05-25,Severe Headache,Migraine Symptoms,110,70,100.1,90,175,14.0,Medication adjusted
+P005,Charlie Green,1995-07-12,28,Male,Chronic Migraine,Sulfa Drugs,2024-01-30,Dizziness,Normal,105,65,99.5,88,170,13.9,Hydration recommended
+P005,Charlie Green,1995-07-12,28,Male,Chronic Migraine,Sulfa Drugs,2023-10-25,Nausea,Fatigue,100,60,99.0,85,168,13.8,Monitor symptoms
